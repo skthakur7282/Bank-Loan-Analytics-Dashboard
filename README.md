@@ -40,7 +40,9 @@ This dashboard helps financial institutions:
 - Improve collection strategies
 - Make data-driven lending decisions
 ## Dashboard Preview
-![Dashboard Screenshot](Images/dashboard_overview.png)
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard_overview.png)
 
 ## Author
 Suman Kumar Thakur
