@@ -40,12 +40,11 @@ This dashboard helps financial institutions:
 - Improve collection strategies
 - Make data-driven lending decisions
 ## Dashboard Preview
-## Dashboard Preview
-
-![Dashboard Screenshot](dashboard_overview.png)
+![Dashboard Screenshot](Images/dashboard_overview.png)
 
 ## Author
 Suman Kumar Thakur
 
 ## GitHub Project Link
-(Add Repository Link Here)
+🔗 https://github.com/skthakur7282/Bank-Loan-Analytics-Dashboard
+
